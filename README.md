@@ -7,11 +7,7 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MertArri/MertArri/output/github-contribution-grid-snake-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MertArri/MertArri/output/github-contribution-grid-snake.svg?v=1">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MertArri/MertArri/output/github-contribution-grid-snake.svg?v=1">
-</picture>
+![snake gif](https://raw.githubusercontent.com/MertArri/MertArri/output/github-contribution-grid-snake.gif?v=999)
 
 ---
 
