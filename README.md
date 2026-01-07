@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mert%20Arri&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mert%20Ar%C4%B1&fontSize=70" />
+
   <h1>Hi 👋, I'm Mert Ari</h1>
   <h3>Software Engineer Student • Uludağ University</h3>
 </div>
